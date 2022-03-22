@@ -1,30 +1,29 @@
 {
-  "title": "All the features you want",
-  "description": "There exists Email Clients which lacks at providing cross platform software,smooth UI,modern design techniques, and trending technologies. Where as a Solution LucaMail Provides all of these as a feature.",
-  "listoffeatures": [
-    {
-      "label": "Open Source",
-      "description": "Lucamail is an open source software that is free to use "
-    },
-    {
-      "label": "Cross Platform",
-      "description": "Lucamail is a Cross Platform software that can run in Windows, Linux , Mac Os being  built with electron.js  "
-    },
-    {
-      "label": "6 Stunning Themes",
-      "description": "It Comes with 6 awesome themes which is neomorphism based. the same themes can be viewed here in this page"
-    },
-    {
-      "label": "Rich Text Editing Experience",
-      "description": "To send mails lucamail is handy to use with its great Text Editing Experience"
-    },
-    {
-      "label": "4 Pre Login Configs",
-      "description": "There are 4 login configs of top mail providers and no need to configure explicitly, Lucamail does it by itself"
-    },
-    {
-      "label": "Super Fast",
-      "description": "To send mails lucamail is handy to use with its great Text Editing Experience"
-    }
-  ]
+    "title": "All the features you want",
+    "description": "There exists Email Clients which lacks at providing cross platform software,smooth UI,modern design techniques, and trending technologies. Where as a Solution LucaMail Provides all of these as a feature.",
+    "listoffeatures": [{
+            "label": "Open Source",
+            "description": "Lucamail is an open source software that is free to use "
+        },
+        {
+            "label": "Cross Platform",
+            "description": "Lucamail is a Cross Platform software that can run in Windows, Linux , Mac Os being  built with electron.js  "
+        },
+        {
+            "label": "Two Classical Themes",
+            "description": "It Comes with two awesome classical themes which is dark and light"
+        },
+        {
+            "label": "Rich Text Editing Experience",
+            "description": "To send mails lucamail is handy to use with its great Text Editing Experience"
+        },
+        {
+            "label": " Multi User Support",
+            "description": " LucaMail allows Switching between Multiple User."
+        },
+        {
+            "label": "Super Fast",
+            "description": "To send mails lucamail is handy to use with its great Text Editing Experience"
+        }
+    ]
 }

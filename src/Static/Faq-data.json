@@ -1,21 +1,28 @@
 {
-  "title": "Frequently Asked Questions",
-  "listofquestions": [
-    {
-      "label": "Where Does mail files  in LucaMail are Stored?",
-      "description": "LucaMail creates a Directory named Luca under users home directory when user is logged into the software  "
-    },
-    {
-      "label": "Why am i getting invalid credentials while i'm logging in?",
-      "description": "you can turn on allow less secure apps under security tab of your mail provider or you can use your app password  "
-    },
-    {
-      "label": "What are the ways that i can login to software?",
-      "description": "Once LucaMail opens you can just login through the applications interface.or you can place the file user.txt  under user directory with fields \n {'host':'imap.mail.com','secure':true,\n'port':993,'auth':{'user':'yourmail@mail.com',\n'pass':'yourpassword'},'emitLogs':true}"
-    },
-    {
-      "label": "How do i contribute to LucaMail?",
-      "description": "Lucamail is open source and it greatly appreciate contributers, you can head over to our github repo for contributing guide"
-    }
-  ]
+    "title": "Frequently Asked Questions",
+    "listofquestions": [{
+            "label": "Where Does mail files  in LucaMail are Stored?",
+            "description": "LucaMail creates a Directory named Luca under users home directory when user is logged into the software  "
+        },
+        {
+            "label": "Why am i getting invalid credentials while i'm logging in?",
+            "description": "you can turn on allow less secure apps under security tab of your mail provider or you can use your app password  "
+        },
+        {
+            "label": "What are the ways that i can login to software?",
+            "description": "Once LucaMail opens you can just login through the applications interface.or you can place the file user.txt  under user directory with fields \n {'host':'imap.mail.com','secure':true,\n'port':993,'auth':{'user':'yourmail@mail.com',\n'pass':'yourpassword'},'emitLogs':true}"
+        },
+        {
+            "label": "How do i contribute to LucaMail?",
+            "description": "Lucamail is open source and it greatly appreciate contributers, you can head over to our github repo for contributing guide"
+        },
+        {
+            "label": " Why LucaMail is different from other Email-Clients",
+            "description": "LucaMail is Very sophisticated in terms of Design and Features.LucaMail Provides Many Features you can see Bunch of fetaures offered "
+        },
+        {
+            "label": " How can i Install LucaMail?",
+            "description": " LucaMail can be installed in two ways.head on to Releases and find out the Suitable binary for your OS.and set executable permissions and run it.LucaMail can be built by it 's code."
+        }
+    ]
 }

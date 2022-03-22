@@ -1,5 +1,5 @@
 import React from "react";
-import AppSS from "../Static/desktop-ss2-with-shapes.png";
+import AppSS from "../Static/lucahome.png";
 const Header = () => {
   return (
     <div id="about">
@@ -17,10 +17,10 @@ const Header = () => {
               is Leightweight, simple , os friendly too.
             </p>
             <a
-              href="https://github.com/raghavyuva/lucamail"
+              href="https://www.youtube.com/watch?v=Nr4P234WgV0"
               class="inline-block px-5 py-3 mt-8 text-sm font-medium text-primary-text   bg-gradient-to-tl from-primary-background to-primary rounded-tl-2xl rounded-br-2xl  shadow-lg  hover:bg-primary"
             >
-              Star Repo
+              Watch Demo
             </a>
             <a
               href="https://github.com/raghavyuva/LucaMail/releases"

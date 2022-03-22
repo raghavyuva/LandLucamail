@@ -46,11 +46,10 @@ const Content = () => {
         <div className="box-border flex flex-col items-center content-center px-8 mx-auto mt-2 leading-6 text-black border-0  border-solid md:mt-20 xl:mt-0 md:flex-row max-w-7xl lg:px-16">
           <div className="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
             <h2 className="m-0 text-xl font-semibold leading-tight border-0  lg:text-3xl md:text-2xl">
-              Beta Version
+              Upcoming Features
             </h2>
             <p className="pt-4 pb-8 m-0 leading-7 text-primary-text border-0  sm:pr-10 lg:text-lg">
-              It is a first release as well as a beta Version of LucaMail it do
-              lack providing some features.
+              It is a beta release  of LucaMail it expects to add new Features in the future
             </p>
             <ul className="p-0 m-0 leading-6 border-0 ">
               <li className="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">

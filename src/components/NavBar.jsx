@@ -25,7 +25,7 @@ function NavBar() {
         <div class="flex justify-end flex-1 w-0 lg:hidden"></div>
         <div class="lg:flex items-center hidden space-x-4">
           <SiCodeigniter size={30} className="text-primary" />
-          <p className="font-mono font-bold">LucaMail-0.0.1-beta</p>
+          <p className="font-mono font-bold">LucaMail</p>
         </div>
         <nav class="items-center justify-center hidden space-x-8 text-sm font-medium lg:flex lg:flex-1 lg:w-0">
           <a class="text-primary-text" href="#about">
@@ -45,6 +45,12 @@ function NavBar() {
             href="https://github.com/raghavyuva/lucamail"
           >
             Github
+          </a>
+          <a
+            class="text-primary-text"
+            href="https://discord.com/invite/jfuWtD3ash"
+          >
+            Discord
           </a>
         </nav>
         <div ref={ref} className="m-2 flex items-center mr-4  ">
@@ -77,6 +83,12 @@ function NavBar() {
             href="https://github.com/raghavyuva/lucamail"
           >
             Github
+          </a>
+          <a
+            class="text-primary-text"
+            href="https://discord.com/invite/jfuWtD3ash"
+          >
+            Discord
           </a>
         </nav>
       </div>

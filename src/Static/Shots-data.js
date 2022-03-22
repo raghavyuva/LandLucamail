@@ -1,32 +1,33 @@
-import Ss1 from "./ssCreamRose.png";
-import Ss2 from "./ssBase.png";
-import Ss3 from "./ssSolarized.png";
-import Ss4 from "./ssDark.png";
-import Ss5 from "./ssRavenBlack.png";
-import Ss6 from "./ssOceanripples.png";
-export const ShotsData = [
-  {
-    label: "LucaMail CreamRose",
-    img: Ss1,
-  },
-  {
-    label: "LucaMail Base",
-    img: Ss2,
-  },
-  {
-    label: "LucaMail Solarized",
-    img: Ss3,
-  },
-  {
-    label: "LucaMail Dark",
-    img: Ss4,
-  },
-  {
-    label: "LucaMail RavenBlack",
-    img: Ss5,
-  },
-  {
-    label: "LucaMail OceanRipples",
-    img: Ss6,
-  },
+export const ShotsData = [{
+        label: "LucaMail Dark Theme",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucadarktheme.png",
+    },
+    {
+        label: "LucaMail Light Theme",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucahome.png",
+    },
+    {
+        label: "LucaMail Send Messages",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucasendmail.png",
+    },
+    {
+        label: "LucaMail Add User",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucaaddnewuser.png",
+    },
+    {
+        label: "LucaMail Custom Theme",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucacustomtheme.png",
+    },
+    {
+        label: "LucaMail List View",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucalistview.png",
+    },
+    {
+        label: "LucaMail Table View",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/lucatableview.png",
+    },
+    {
+        label: "LucaMail Theme Settings",
+        img: "https://raw.githubusercontent.com/raghavyuva/LucaMail/features/src/main/helpers/assets/themesettings.png",
+    },
 ];
